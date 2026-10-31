@@ -1,6 +1,6 @@
 # Vex 隐私政策
 
-最后更新及生效日期：2026 年 10 月 27 日
+最后更新及生效日期：2026 年 10 月 31 日
 
 Vex 是一款独立开发的 V2EX 第三方客户端，与 V2EX、Imgur、Sov2ex、Google、GitHub、Cloudflare 或 Apple 不存在隶属、代理或官方合作关系。
 
@@ -43,7 +43,7 @@ Vex 开发者无法通过自有服务器读取、修改或删除你保存在 V2E
 
 ### 4. “最热”的历史记录
 
-在首页“最热”里切换到“昨天”“前天”“3 天”或“7 天”时，Vex 会从 hot.ryusaksun.com 下载对应日期的存档。存档由开发者在 GitHub 上运行的程序每小时匿名读取一次 V2EX 公开的“最热”页面整理而成，只包含当天上过“最热”的主题标题、作者、节点、回复数与最后回复信息，以静态文件的形式发布在 GitHub Pages 上。“今天”的列表仍直接从 V2EX 读取。
+在首页“最热”里查看“昨天”“前天”“3 天”“7 天”“1 个月”“3 个月”或“今年”时，Vex 会从 hot.ryusaksun.com 下载对应的存档或榜单。存档由开发者在 GitHub 上运行的程序每小时匿名读取 V2EX 公开的“最热”页面与主题接口整理而成，2026 年 10 月 26 日之前的部分来自公开的 V2Next 存档，只包含上过“最热”的主题标题、作者、节点、回复数与最后回复信息，以静态文件的形式发布在 GitHub Pages 上。“今天”的列表仍直接从 V2EX 读取。
 
 - 下载存档的请求不带 V2EX 登录 Cookie 或账号信息，也不会上传你的浏览记录；
 - 和访问其他网站一样，GitHub 会收到你的 IP 地址、请求时间和包含应用与系统版本的 User-Agent，并按照 [GitHub 隐私声明](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement) 处理；开发者无法从 GitHub Pages 取得这些访问记录；
